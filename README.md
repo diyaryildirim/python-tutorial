@@ -1,3 +1,4 @@
-# python-tutorial
+# Python-Tutorial
 
-yeni başlayanlar için örneklerle python
+#Python ile metin sözcük Sayacı
+metin belgesindeki cümleleri sayıp ekrana yazdıran program
