@@ -1,0 +1,3 @@
+merhaba arkadaşlar 
+bu gün sizlere kodlama mantığından ve algoritmadan bahsedeceğim.
+bugün ki dersimiz de kodlamanın tarihini anlatacağız.
