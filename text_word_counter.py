@@ -5,3 +5,4 @@ for line in file:
     count += len(words)
 file.close()
 print("Metin dosyasindaki kelime sayisi : ", count)
+input()
