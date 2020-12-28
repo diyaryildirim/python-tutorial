@@ -1,5 +1,5 @@
-merhaba arkadaşlar 
-bu gün sizlere kodlama mantığından ve algoritmadan bahsedeceğim.
-bugün ki dersimiz de kodlamanın tarihini anlatacağız.
+merhaba arkadaslar 
+bu gun sizlere kodlama mantigindan ve algoritmadan bahsedecegim.
+bu gun ki dersimiz de kodlamanin tarihini anlatacagız.
 
-Bu zor günlerde pazar günümüzü verimli geçirmemizi sağladığınız için başta Etkin Kampüs ekibine, konuşmacılar sayın İrfan Değirmenci, sayın Bedriye Selim, sayın Atıl Samancıoğlu ve sayın Dilay Çakıcı 'ya teşekkür ederim. Güzel bir Kişisel Gelişim Zirvesi oldu. zirve her zaman tek kişilik olacaktır. bugün ki etkinlikte rol aldığı için Diyar Yıldırım'a teşekkür ederiz.
+Bu zor gunlerde pazar gunumuzu verimli geçirmemizi sagladiginiz icin basta Etkin Kampus ekibine, konusmacilar sayin Irfan Degirmenci , sayin Bedriye Selim, sayin Atıl Samancioglu ve sayin Dilay Cakici'ya tesekkur ederim. Guzel bir Kisisel Gelisim Zirvesi oldu. zirve her zaman tek kisilik olacaktir. bu gun ki etkinlikte rol aldigi icin Diyar Yildirim'a tesekkur ederiz.

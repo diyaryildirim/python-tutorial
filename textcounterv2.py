@@ -13,7 +13,8 @@ with open("myfile.txt", 'r') as f:
                 count_de+=1
             if(words[i]=='ve'):
                 count_ve+=1
-
+print("Kelimeler :")                 
+print(words)
 print("kelime sayisi :")
 print(count_words)
 print("de sayisi :")
