@@ -1,3 +1,5 @@
 merhaba arkadaşlar 
 bu gün sizlere kodlama mantığından ve algoritmadan bahsedeceğim.
 bugün ki dersimiz de kodlamanın tarihini anlatacağız.
+
+Bu zor günlerde pazar günümüzü verimli geçirmemizi sağladığınız için başta Etkin Kampüs ekibine, konuşmacılar sayın İrfan Değirmenci, sayın Bedriye Selim, sayın Atıl Samancıoğlu ve sayın Dilay Çakıcı 'ya teşekkür ederim. Güzel bir Kişisel Gelişim Zirvesi oldu. zirve her zaman tek kişilik olacaktır. bugün ki etkinlikte rol aldığı için Diyar Yıldırım'a teşekkür ederiz.
